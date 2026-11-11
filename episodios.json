@@ -1,5 +1,25 @@
 [
  {
+  "fecha": "2026-11-11",
+  "resumen": [
+   "Huelga general 11-N: primer paro general en 14 años, por vivienda y salarios, con las Cortes disueltas y a 18 días de las elecciones.",
+   "Precampaña del 29-N: Feijóo presenta su programa; las encuestas mantienen la mayoría de PP y Vox, con el PSOE recortando.",
+   "El Gobierno intentará mañana convalidar los decretos de vivienda en la Diputación Permanente, con un voto de ventaja (35-34).",
+   "EE. UU.: el IPC de octubre sube un 0,4% mensual y la subyacente un 0,3%; la Fed se inclina por subir tipos en diciembre.",
+   "El bono a 10 años de EE. UU. toca el 5%; S&P 500 -0,4%, Nasdaq -0,7%, Nvidia -5% por su crisis interna.",
+   "El Ibex sube un 0,98% hasta 19.936 puntos tras tocar los 20.000; banca y acero arriba, renovables y Repsol abajo.",
+   "Gas: el TTF cae a la zona de 82 €/MWh, mínimos de un mes, con almacenamientos UE por debajo del 75%.",
+   "Petróleo: el Brent baja un 1,2% a unos 91,5 dólares, mínimos desde agosto, ante la desescalada con Irán.",
+   "Rusia y Ucrania retoman en Abu Dabi, con mediación de EE. UU., sus primeras conversaciones en nueve meses.",
+   "Pool eléctrico español: 171 €/MWh de media el martes (-4,6%), con picos de 220 €/MWh en la punta de la tarde."
+  ],
+  "audio_ok": true,
+  "audio": "Informe_2026-11-11.mp3",
+  "bytes": 4883692,
+  "segundos": 813,
+  "minutos": 14
+ },
+ {
   "fecha": "2026-11-10",
   "resumen": [
    "España, a 19 días del 29-N: Feijóo lidera las encuestas, el PSOE intenta recortar tras Urda y la vivienda domina la campaña.",
