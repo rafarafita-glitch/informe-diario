@@ -1,5 +1,25 @@
 [
  {
+  "fecha": "2026-11-12",
+  "resumen": [
+   "Huelga general del 11-N, la primera en 14 años: seguimiento enfrentado (menos del 5% según CEOE; 41-75% según sindicatos), manifestaciones masivas por la vivienda y disturbios en Barcelona.",
+   "Arranca la campaña de las generales del 29-N; las encuestas apuntan a una mayoría de PP y Vox.",
+   "La Diputación Permanente vota hoy los decretos de vivienda; el PNV decide (previsiblemente sí al general, no al de indemnizaciones).",
+   "El Gobierno aprueba en plena precampaña contratos de defensa por unos 11.800 millones (El Mundo habla de 19.000).",
+   "El Ibex 35 sube un 0,46% y recupera los 20.000 puntos, con Repsol y ACS (+3%) al frente.",
+   "Nvidia se hunde ~9% fuera de hora por las informaciones sobre el futuro de Jensen Huang y arrastra a Asia.",
+   "El TTF rebota a ~87 €/MWh (+2,3 €; +2,7%) por los ataques a mercantes en Ormuz; almacenamientos UE por debajo del 73% frente a ~90% de media.",
+   "El pool español cae a ~116 €/MWh hoy (desde 211 €) gracias a la eólica; el Brent ronda los 92-93 dólares.",
+   "El IPC de EEUU (+0,4% mensual) hace descontar una subida de la Fed en diciembre; el euro cae a mínimos del año (~1,11 $).",
+   "Bruselas presenta la Ley de Equidad Digital contra los diseños adictivos; en EEUU la Cámara aparca la destitución de Hegseth (211-204)."
+  ],
+  "audio_ok": true,
+  "audio": "Informe_2026-11-12.mp3",
+  "bytes": 7062316,
+  "segundos": 882,
+  "minutos": 15
+ },
+ {
   "fecha": "2026-11-11",
   "resumen": [
    "Huelga general 11-N: primer paro general en 14 años, por vivienda y salarios, con las Cortes disueltas y a 18 días de las elecciones.",
