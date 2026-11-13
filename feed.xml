@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Thu, 12 Nov 2026 04:55:17 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Fri, 13 Nov 2026 05:11:14 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – jueves 12 de noviembre de 2026</title>
+<item><title>Informe de actualidad – viernes 13 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Arranca la campaña del 29N: el PP lidera las encuestas, Feijóo centra su mensaje en la corrupción y Sánchez acelera medidas sociales.
+2. La Diputación Permanente convalida (35-34, con el PNV) el decreto de vivienda; cae el de prórroga automática de alquileres.
+3. Exclusiva de El Español: la UCO sitúa a Sánchez en una reunión a solas en 2023 con Corvillo, detenido en el caso Koldo.
+4. Jensen Huang dimite como CEO de Nvidia tras 33 años; Colette Kress, interina; la acción cae un 4,3%.
+5. Trump: EE. UU. &quot;ya no necesita un acuerdo&quot; con Irán y aparta a Vance; el Brent rebota más de un 3%, hasta casi 96 $.
+6. El TTF sube cerca de un 7%, hasta unos 92,7 €/MWh, por frío, la avería de Troll y almacenamientos UE por debajo del 72%.
+7. El pool español se dispara hoy a 186 €/MWh de media (116 el jueves), con picos de 296 €/MWh por la tarde.
+8. IPC de EE. UU. caliente: el bono a 10 años supera el 5,1% y el mercado descuenta subida de la Fed en diciembre.
+9. Ucrania y Rusia pactan en Abu Dabi el mayor canje de prisioneros, pero el Donbás bloquea la paz; la UE prepara su 22.º paquete de sanciones.
+10. Xi insiste en la &quot;reunificación&quot; con Taiwán mientras 29 aviones chinos rodean la isla, a una semana de la APEC de Shenzhen.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-13.html</link>
+<guid isPermaLink="false">informe-2026-11-13</guid><pubDate>Fri, 13 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-13.mp3" length="7123564" type="audio/mpeg"/>
+<itunes:duration>890</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – jueves 12 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Huelga general del 11-N, la primera en 14 años: seguimiento enfrentado (menos del 5% según CEOE; 41-75% según sindicatos), manifestaciones masivas por la vivienda y disturbios en Barcelona.
 2. Arranca la campaña de las generales del 29-N; las encuestas apuntan a una mayoría de PP y Vox.
