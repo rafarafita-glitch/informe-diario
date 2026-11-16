@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Sun, 15 Nov 2026 04:50:38 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Mon, 16 Nov 2026 04:50:33 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – domingo 15 de noviembre de 2026</title>
+<item><title>Informe de actualidad – lunes 16 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Campaña del 29-N: el PSOE centra su programa en vivienda; la 40dB da PP 31,9%, PSOE 29,9% y Vox 18%.
+2. Agresión al cabeza de lista del PP por Guipúzcoa en Hernani; Feijóo exige a Sánchez desmarcarse de Bildu.
+3. Un informe policial identifica a 18 altos mandos marroquíes en la entrada masiva en Ceuta de julio.
+4. El Ibex 35 cierra el viernes en 20.020 puntos (+3,4% semanal), con Repsol y eléctricas al frente; Acciona cae un 8%.
+5. Iberdrola marca máximos (más de 158.000 M€ de capitalización); Enagás sube al 49,5% en Teréga.
+6. TTF en torno a 91 €/MWh (+5 €/MWh en la semana) por frío, poca eólica, Noruega y Ormuz; pool español de hoy: 132,55 €/MWh.
+7. Nvidia, sin Jensen Huang, presenta resultados mañana; el Nasdaq cayó un 0,9% el viernes y Asia abre en rojo.
+8. China decepciona en octubre: industria +4,8%, ventas minoristas +0,4%, inversión −8,1% en el año.
+9. Estonia cerrará su frontera con Rusia el 1 de diciembre tras un sabotaje atribuido al GRU; nuevo ataque masivo ruso con drones.
+10. Sin tregua con Irán: Netanyahu presiona a Trump para reanudar bombardeos; sigue el bloqueo naval y los ataques en Ormuz.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-16.html</link>
+<guid isPermaLink="false">informe-2026-11-16</guid><pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-16.mp3" length="6539884" type="audio/mpeg"/>
+<itunes:duration>817</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – domingo 15 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Primer domingo de campaña hacia el 29-N: Sánchez presenta su programa en Alcorcón y Feijóo está en Santander; las encuestas dan ventaja a la derecha, aunque el PSOE recorta.
 2. Europa forma su equipo para negociar la paz de Ucrania (instituciones UE + Alemania, Francia, Italia, Polonia y Reino Unido); España queda fuera.
