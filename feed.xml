@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Mon, 16 Nov 2026 04:50:33 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Tue, 17 Nov 2026 04:51:00 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – lunes 16 de noviembre de 2026</title>
+<item><title>Informe de actualidad – martes 17 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Elecciones 29N: la media de encuestas da al PP un 31,5% y al PSOE un 27%; PP y Vox rozan o superan la mayoría absoluta, aunque la izquierda recorta.
+2. Crisis migratoria récord en Canarias: más de 9.000 llegadas a El Hierro en la primera quincena de noviembre.
+3. El Consejo de Ministros aprueba previsiblemente hoy el SMI de 2027 (1.286 €/mes, +5,3%) y la subida de los funcionarios.
+4. Repsol reclama unos 120 M€ a Endesa, Iberdrola y Naturgy por los daños del apagón de 2025 en sus refinerías.
+5. El Ibex 35 cae un 0,37%, hasta 19.946 puntos, y pierde los 20.000; Solaria se hunde un 5,4%.
+6. Wall Street encadena tres caídas: Nasdaq -2,5% y S&amp;P 500 -1,9% antes de los resultados de Nvidia de esta noche.
+7. El TTF baja por debajo de 90 €/MWh por tiempo suave y GNL récord de EE. UU., pero los almacenes UE están al 70% (media 89%).
+8. El Brent cae un 3,5%, hasta unos 92 $, por la recuperación del tráfico en Ormuz y el superávit que prevé la AIE.
+9. El pool español baja a la mitad (64,6 €/MWh) y la bombona de butano sube desde hoy un 3,95%, a 19,55 €.
+10. Ucrania: sin alto el fuego en Abu Dabi pero con gran canje de presos; el jueves, cumbre Xi-Trump-Putin en Shenzhen.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-17.html</link>
+<guid isPermaLink="false">informe-2026-11-17</guid><pubDate>Tue, 17 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-17.mp3" length="6973228" type="audio/mpeg"/>
+<itunes:duration>871</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – lunes 16 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Campaña del 29-N: el PSOE centra su programa en vivienda; la 40dB da PP 31,9%, PSOE 29,9% y Vox 18%.
 2. Agresión al cabeza de lista del PP por Guipúzcoa en Hernani; Feijóo exige a Sánchez desmarcarse de Bildu.

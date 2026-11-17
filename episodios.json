@@ -1,5 +1,25 @@
 [
  {
+  "fecha": "2026-11-17",
+  "resumen": [
+   "Elecciones 29N: la media de encuestas da al PP un 31,5% y al PSOE un 27%; PP y Vox rozan o superan la mayoría absoluta, aunque la izquierda recorta.",
+   "Crisis migratoria récord en Canarias: más de 9.000 llegadas a El Hierro en la primera quincena de noviembre.",
+   "El Consejo de Ministros aprueba previsiblemente hoy el SMI de 2027 (1.286 €/mes, +5,3%) y la subida de los funcionarios.",
+   "Repsol reclama unos 120 M€ a Endesa, Iberdrola y Naturgy por los daños del apagón de 2025 en sus refinerías.",
+   "El Ibex 35 cae un 0,37%, hasta 19.946 puntos, y pierde los 20.000; Solaria se hunde un 5,4%.",
+   "Wall Street encadena tres caídas: Nasdaq -2,5% y S&P 500 -1,9% antes de los resultados de Nvidia de esta noche.",
+   "El TTF baja por debajo de 90 €/MWh por tiempo suave y GNL récord de EE. UU., pero los almacenes UE están al 70% (media 89%).",
+   "El Brent cae un 3,5%, hasta unos 92 $, por la recuperación del tráfico en Ormuz y el superávit que prevé la AIE.",
+   "El pool español baja a la mitad (64,6 €/MWh) y la bombona de butano sube desde hoy un 3,95%, a 19,55 €.",
+   "Ucrania: sin alto el fuego en Abu Dabi pero con gran canje de presos; el jueves, cumbre Xi-Trump-Putin en Shenzhen."
+  ],
+  "audio_ok": true,
+  "audio": "Informe_2026-11-17.mp3",
+  "bytes": 6973228,
+  "segundos": 871,
+  "minutos": 15
+ },
+ {
   "fecha": "2026-11-16",
   "resumen": [
    "Campaña del 29-N: el PSOE centra su programa en vivienda; la 40dB da PP 31,9%, PSOE 29,9% y Vox 18%.",
