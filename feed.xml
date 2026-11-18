@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Tue, 17 Nov 2026 04:51:00 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Wed, 18 Nov 2026 05:05:43 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – martes 17 de noviembre de 2026</title>
+<item><title>Informe de actualidad – miércoles 18 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. El Gobierno sube el salario mínimo un 5,3 %, hasta 1.286 euros en 14 pagas, sin acuerdo social y con deducción en el IRPF para que no tribute.
+2. Los más de tres millones de empleados públicos cobrarán un 4,5 % más en 2027, por real decreto-ley pendiente de convalidación.
+3. La huelga ferroviaria paraliza Cercanías y Rodalies (unos 700.000 afectados) y el caso Adamuz pone el foco en Adif.
+4. El Ibex cae un 1,61 % hasta 19.625 puntos; Indra se hunde un 6,4 % por la investigación sobre contratos de Defensa.
+5. Europa sufre su peor sesión desde marzo (Euro Stoxx 50 −2,15 %) por el miedo a la IA y la filtración de Deutsche Bank.
+6. Nvidia ingresa 115.800 millones de dólares y prevé 130.000 millones; sube cerca de un 4 % fuera de hora.
+7. El TTF rebota hacia 85,5 €/MWh: almacenamientos UE en el 70 %, minas en Ormuz y ola de frío desde el viernes.
+8. El pool eléctrico español cae hoy a 52 €/MWh de media, con tres horas a cero euros.
+9. Acuerdo provisional UE para acelerar los permisos de redes, renovables y almacenamiento.
+10. Trump, Xi y Putin se reúnen el jueves en Shenzhen; Berlín acoge la cumbre de aliados de Ucrania.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-18.html</link>
+<guid isPermaLink="false">informe-2026-11-18</guid><pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-18.mp3" length="7124524" type="audio/mpeg"/>
+<itunes:duration>890</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – martes 17 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Elecciones 29N: la media de encuestas da al PP un 31,5% y al PSOE un 27%; PP y Vox rozan o superan la mayoría absoluta, aunque la izquierda recorta.
 2. Crisis migratoria récord en Canarias: más de 9.000 llegadas a El Hierro en la primera quincena de noviembre.
