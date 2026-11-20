@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Thu, 19 Nov 2026 05:02:50 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Fri, 20 Nov 2026 05:03:02 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – jueves 19 de noviembre de 2026</title>
+<item><title>Informe de actualidad – viernes 20 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Cara a cara Sánchez-Feijóo a nueve días del 29-N: vivienda, impuestos y corrupción; la prensa conservadora da ganador a Feijóo y la progresista verifica datos de ambos.
+2. Encuestas previas al debate: PP en torno al 31%, PSOE 27,5% y Vox 19%; la mayoría PP-Vox es el escenario más probable.
+3. El BOE publica el SMI de 2027: 1.286 euros al mes en 14 pagas (+5,3%), exento de IRPF; en vigor el 1 de enero.
+4. El TTF cierra en unos 85,2 €/MWh (+4,4 €) por el frío, el parón de Troll y unos almacenamientos UE del 70%, mínimos desde 2013.
+5. El pool español para hoy viernes se dispara a 141,7 €/MWh frente a 32,7 del jueves, con picos de 279 € por la tarde.
+6. El Ibex 35 cae un 0,97%, hasta 19.186 puntos, cuarta sesión a la baja, lastrado por Solaria (-5,4%).
+7. Wall Street se desploma: S&amp;P 500 -2%, Nasdaq -2,25% y Dow -2,2% por debajo de 50.000, ante una probable subida de tipos de la Fed en diciembre.
+8. Anthropic debuta en el Nasdaq: capta unos 81.000 millones de dólares a 83 $ y cierra a 97 $ (+17%), muy por debajo de su apertura.
+9. Trump, Xi y Putin firman en Shenzhen una declaración simbólica de cuatro puntos sin mencionar Ucrania; Europa rechaza un &quot;Yalta 2.0&quot;.
+10. Macron propone reabrir la entrada de Ucrania en la OTAN ante la posición &quot;maximalista&quot; de Rusia.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-20.html</link>
+<guid isPermaLink="false">informe-2026-11-20</guid><pubDate>Fri, 20 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-20.mp3" length="7124716" type="audio/mpeg"/>
+<itunes:duration>890</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – jueves 19 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Sánchez y Feijóo, esta noche (22:00) en el único cara a cara; el PP lidera las encuestas y PP+Vox superan la mayoría absoluta.
 2. El Ibex 35 cae un 1,3% hasta 19.373 puntos por banca, energéticas y temor a subidas de tipos.
