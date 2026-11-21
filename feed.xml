@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Fri, 20 Nov 2026 05:03:02 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Sat, 21 Nov 2026 05:13:20 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – viernes 20 de noviembre de 2026</title>
+<item><title>Informe de actualidad – sábado 21 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Viernes negro en Wall Street: el Nasdaq cae un 5,3% y el S&amp;P 500 un 3,7%; S&amp;P y Dow Jones entran en corrección por la venta masiva de valores de IA.
+2. Nvidia se desploma cerca de un 14% pese a sus resultados récord y Anthropic cede un 9% en su segundo día en bolsa.
+3. El Ibex 35 cae un 1,6% hasta 18.873 puntos y cierra su peor semana desde marzo (-5,7%); solo resisten eléctricas y redes.
+4. Consejo de Ministros extraordinario: real decreto de centros de datos (80% renovable horaria y adicional desde 10 MW); SpainDC y la Comunidad de Madrid lo recurrirán.
+5. Aprobada la planificación de la red de transporte a 2030: 17.142 M€ de inversión y unos 47 GW de nueva demanda, pero cubre solo un 20% de lo solicitado.
+6. Real decreto-ley del mercado de emisiones: nace el ETS2 para edificios y transporte y un Fondo Social para el Clima de hasta 9.000 M€.
+7. El TTF rebota unos 5 €/MWh, hasta cerca de 89,5 €/MWh, por las paradas en Noruega, el frío previsto y almacenamientos UE en el 70% (81% hace un año).
+8. Pool español del sábado: 148,4 €/MWh de media; el Brent cierra en 92,6 $ pero encadena su tercera semana de caídas.
+9. Cumbre Trump-Xi-Putin en Shenzhen con una declaración de paz sin compromisos; Rusia ataca los puentes de Kiev y Polonia denuncia misiles en su espacio aéreo.
+10. Campaña del 29N: el PP vende victoria en el debate y el PSOE busca al indeciso; Sánchez en Canarias y Feijóo en Valencia este sábado.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-21.html</link>
+<guid isPermaLink="false">informe-2026-11-21</guid><pubDate>Sat, 21 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-21.mp3" length="6673132" type="audio/mpeg"/>
+<itunes:duration>834</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – viernes 20 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Cara a cara Sánchez-Feijóo a nueve días del 29-N: vivienda, impuestos y corrupción; la prensa conservadora da ganador a Feijóo y la progresista verifica datos de ambos.
 2. Encuestas previas al debate: PP en torno al 31%, PSOE 27,5% y Vox 19%; la mayoría PP-Vox es el escenario más probable.
