@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Sun, 22 Nov 2026 04:51:58 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Mon, 23 Nov 2026 05:14:19 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – domingo 22 de noviembre de 2026</title>
+<item><title>Informe de actualidad – lunes 23 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Último día de encuestas antes del 29N: casi todas dan al PP primera fuerza y mayoría absoluta con Vox; el CIS mantiene al PSOE delante.
+2. Desbandada bursátil por el pinchazo de la IA: S&amp;P 500 −3,7% y Nasdaq −5,3% el viernes; ambos en corrección.
+3. Nvidia cae un 14% el viernes, investigada por la SEC por su contabilidad tras la dimisión de Jensen Huang; peor semana desde 2008.
+4. El Ibex 35 pierde los 19.000 puntos: cierra en 18.873 (−1,6%) y se deja casi un 6% en la semana.
+5. Asia abre en rojo: el Kospi llega a caer casi un 6%; Tokio, cerrado por festivo.
+6. Ormuz: dos petroleros atacados; Trump amenaza con hundir a quien rompa el bloqueo mientras Catar media en Teherán.
+7. TTF en torno a 86,5 €/MWh el viernes (+3 € en el día, −6 € en la semana); almacenes de la UE en el 70%.
+8. La luz en el mercado mayorista español promedia hoy unos 205 €/MWh, frente a 65 del domingo.
+9. El BOE del sábado publica el RDL 41/2026 (derechos de emisión) y el RD 1032/2026 (centros de datos).
+10. Los mercados dan cerca de un 90% de probabilidad a una subida de tipos de la Fed el 9 de diciembre.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-23.html</link>
+<guid isPermaLink="false">informe-2026-11-23</guid><pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-23.mp3" length="6603244" type="audio/mpeg"/>
+<itunes:duration>825</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – domingo 22 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Última semana de campaña del 29-N: Sánchez y Feijóo, hoy en Murcia; los sondeos privados dan al PP una ventaja de 2 a 7 puntos.
 2. Sánchez prorrogará el impuesto a la banca hasta 2027 y destinará unos 1.400 millones a vivienda; el Consejo de Ministros lo aprobaría el martes.

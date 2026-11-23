@@ -1,5 +1,25 @@
 [
  {
+  "fecha": "2026-11-23",
+  "resumen": [
+   "Último día de encuestas antes del 29N: casi todas dan al PP primera fuerza y mayoría absoluta con Vox; el CIS mantiene al PSOE delante.",
+   "Desbandada bursátil por el pinchazo de la IA: S&P 500 −3,7% y Nasdaq −5,3% el viernes; ambos en corrección.",
+   "Nvidia cae un 14% el viernes, investigada por la SEC por su contabilidad tras la dimisión de Jensen Huang; peor semana desde 2008.",
+   "El Ibex 35 pierde los 19.000 puntos: cierra en 18.873 (−1,6%) y se deja casi un 6% en la semana.",
+   "Asia abre en rojo: el Kospi llega a caer casi un 6%; Tokio, cerrado por festivo.",
+   "Ormuz: dos petroleros atacados; Trump amenaza con hundir a quien rompa el bloqueo mientras Catar media en Teherán.",
+   "TTF en torno a 86,5 €/MWh el viernes (+3 € en el día, −6 € en la semana); almacenes de la UE en el 70%.",
+   "La luz en el mercado mayorista español promedia hoy unos 205 €/MWh, frente a 65 del domingo.",
+   "El BOE del sábado publica el RDL 41/2026 (derechos de emisión) y el RD 1032/2026 (centros de datos).",
+   "Los mercados dan cerca de un 90% de probabilidad a una subida de tipos de la Fed el 9 de diciembre."
+  ],
+  "audio_ok": true,
+  "audio": "Informe_2026-11-23.mp3",
+  "bytes": 6603244,
+  "segundos": 825,
+  "minutos": 14
+ },
+ {
   "fecha": "2026-11-22",
   "resumen": [
    "Última semana de campaña del 29-N: Sánchez y Feijóo, hoy en Murcia; los sondeos privados dan al PP una ventaja de 2 a 7 puntos.",
