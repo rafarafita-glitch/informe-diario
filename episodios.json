@@ -1,5 +1,25 @@
 [
  {
+  "fecha": "2026-11-24",
+  "resumen": [
+   "Última semana de campaña del 29-N: los sondeos finales dan mayoría a PP y Vox (187 escaños según 40dB; 197 según SocioMétrica), con el PSOE recortando. Desde hoy, veda de encuestas.",
+   "El debate a ocho de RTVE giró sobre vivienda: intervención del mercado frente a más construcción.",
+   "Sánchez propone un impuesto a patrimonios de más de 100 millones (unos 2.000 M€/año); Feijóo promete derogar la amnistía y auditar el gasto.",
+   "Wall Street rebota: S&P 500 +4,7% y Nasdaq +6,5% tras la vuelta de Jensen Huang a Nvidia (+31%).",
+   "El Ibex sube un 1,6% hasta 19.181 puntos y el DAX un 2,2%; esta mañana Taiwán +9%, Corea +7% y Japón +5%.",
+   "TTF en la zona de 88-91 €/MWh tras tocar 96: almacenes UE por debajo del 70% (81% hace un año), frío previsto y GNL del Golfo restringido.",
+   "Brent en mínimos de tres meses (87-89 $) por el excedente previsto por la AIE y los contactos EE. UU.-Irán vía Qatar.",
+   "La luz en el mercado mayorista español sube a 210 €/MWh de media, con 18 horas por encima de 200 €.",
+   "La Fed llega al 9 de diciembre con una subida de tipos casi descontada; mañana se publica el PCE.",
+   "China rebaja del 100% al 80% el margen para comprar acciones a crédito y el Diario del Pueblo niega el pesimismo económico."
+  ],
+  "audio_ok": true,
+  "audio": "Informe_2026-11-24.mp3",
+  "bytes": 6491500,
+  "segundos": 811,
+  "minutos": 14
+ },
+ {
   "fecha": "2026-11-23",
   "resumen": [
    "Último día de encuestas antes del 29N: casi todas dan al PP primera fuerza y mayoría absoluta con Vox; el CIS mantiene al PSOE delante.",

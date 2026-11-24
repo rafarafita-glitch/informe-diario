@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Mon, 23 Nov 2026 05:14:19 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Tue, 24 Nov 2026 04:52:01 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – lunes 23 de noviembre de 2026</title>
+<item><title>Informe de actualidad – martes 24 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Última semana de campaña del 29-N: los sondeos finales dan mayoría a PP y Vox (187 escaños según 40dB; 197 según SocioMétrica), con el PSOE recortando. Desde hoy, veda de encuestas.
+2. El debate a ocho de RTVE giró sobre vivienda: intervención del mercado frente a más construcción.
+3. Sánchez propone un impuesto a patrimonios de más de 100 millones (unos 2.000 M€/año); Feijóo promete derogar la amnistía y auditar el gasto.
+4. Wall Street rebota: S&amp;P 500 +4,7% y Nasdaq +6,5% tras la vuelta de Jensen Huang a Nvidia (+31%).
+5. El Ibex sube un 1,6% hasta 19.181 puntos y el DAX un 2,2%; esta mañana Taiwán +9%, Corea +7% y Japón +5%.
+6. TTF en la zona de 88-91 €/MWh tras tocar 96: almacenes UE por debajo del 70% (81% hace un año), frío previsto y GNL del Golfo restringido.
+7. Brent en mínimos de tres meses (87-89 $) por el excedente previsto por la AIE y los contactos EE. UU.-Irán vía Qatar.
+8. La luz en el mercado mayorista español sube a 210 €/MWh de media, con 18 horas por encima de 200 €.
+9. La Fed llega al 9 de diciembre con una subida de tipos casi descontada; mañana se publica el PCE.
+10. China rebaja del 100% al 80% el margen para comprar acciones a crédito y el Diario del Pueblo niega el pesimismo económico.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-24.html</link>
+<guid isPermaLink="false">informe-2026-11-24</guid><pubDate>Tue, 24 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-24.mp3" length="6491500" type="audio/mpeg"/>
+<itunes:duration>811</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – lunes 23 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Último día de encuestas antes del 29N: casi todas dan al PP primera fuerza y mayoría absoluta con Vox; el CIS mantiene al PSOE delante.
 2. Desbandada bursátil por el pinchazo de la IA: S&amp;P 500 −3,7% y Nasdaq −5,3% el viernes; ambos en corrección.
