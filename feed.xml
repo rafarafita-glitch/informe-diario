@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Tue, 24 Nov 2026 04:52:01 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Wed, 25 Nov 2026 05:08:37 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – martes 24 de noviembre de 2026</title>
+<item><title>Informe de actualidad – miércoles 25 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Recta final de campaña: a cuatro días de las generales del domingo 29, el debate a ocho de RTVE reunió a más de tres millones de espectadores y las encuestas privadas dan mayoría a PP y Vox, mientras el CIS sitúa al PSOE por delante.
+2. El Consejo de Ministros del martes aprobó, en plena campaña, un paquete social: permiso de nacimiento de veinte semanas, más días por fallecimiento de un familiar, IVA anual para pequeños autónomos y prórroga de las ayudas al transporte.
+3. El gas TTF cerró en torno a 91 euros el megavatio hora, un euro y medio más, tras tocar el lunes los 96: frío intenso, poco viento y almacenamientos europeos por debajo del 69 %.
+4. El pool eléctrico español se desploma hoy a unos 111 euros, casi la mitad que el martes (210), por la vuelta de la solar y la eólica al mediodía.
+5. El Brent marca mínimos desde agosto, cerca de los 90 dólares, por los avances diplomáticos entre Estados Unidos e Irán, aunque Ormuz sigue sin abrirse del todo.
+6. Las bolsas devuelven parte del rally de Nvidia: el Ibex cae un 0,86 % hasta 19.016 puntos, el Euro Stoxx un 1,2 % y el Nasdaq un 1,5 %; el Dow sube y supera los 50.000.
+7. Asia se tiñe de rojo esta mañana: el Kospi coreano se hunde un 5,6 % y el Nikkei un 3,6 % por las dudas sobre la inteligencia artificial y la amenaza de nuevos aranceles.
+8. El mercado da por hecha una subida de tipos de la Fed en diciembre, con un 95 % de probabilidad; hoy se publica el deflactor del consumo, el PCE, que se espera en el 3,8 %.
+9. China abre una investigación contra Chen Jining, jefe del Partido en Shanghái y miembro del Politburó: la mayor sacudida política en décadas.
+10. El decreto de centros de datos, en vigor desde el domingo, enfrenta a Gobierno y sector: obliga a cubrir el 80 % del consumo con renovables hora a hora y la patronal lo llevará al Supremo.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-25.html</link>
+<guid isPermaLink="false">informe-2026-11-25</guid><pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-25.mp3" length="6783724" type="audio/mpeg"/>
+<itunes:duration>847</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – martes 24 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Última semana de campaña del 29-N: los sondeos finales dan mayoría a PP y Vox (187 escaños según 40dB; 197 según SocioMétrica), con el PSOE recortando. Desde hoy, veda de encuestas.
 2. El debate a ocho de RTVE giró sobre vivienda: intervención del mercado frente a más construcción.
