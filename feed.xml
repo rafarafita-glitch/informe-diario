@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Wed, 25 Nov 2026 05:08:37 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Thu, 26 Nov 2026 05:05:42 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – miércoles 25 de noviembre de 2026</title>
+<item><title>Informe de actualidad – jueves 26 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Recta final del 29N: Sánchez dice en El País que &quot;toca la mayoría con la yema de los dedos&quot;; la media de encuestas da a PP y Vox más de 176 escaños.
+2. Trump reabre la guerra comercial: aranceles de hasta el 20% (Sección 301) a 14 economías, entre ellas China y la UE (techo del 15% para Europa).
+3. El Ibex 35 cae un 2%, hasta 18.636 puntos; la banca se hunde entre un 3% y un 4% por la prórroga del impuesto bancario y el tope del 22% TAE al crédito al consumo.
+4. El TTF corta cuatro sesiones de subidas: cae unos 4 €, hasta la zona de 87-88 €/MWh, con los almacenes de la UE por debajo del 69%.
+5. El precio medio de la luz en el mercado diario sube un 75% para hoy, hasta unos 194 €/MWh, por gas caro, frío y poco viento.
+6. El Brent vuelve por encima de 90 dólares tras el ataque hutí reivindicado contra la refinería saudí de Ras Tanura y nuevas explosiones en Ormuz.
+7. Sesión de infarto en Wall Street: el Nasdaq llegó a caer más del 4% por el miedo a la IA y cerró con -0,6%; el Dow sube un 0,3%.
+8. El PCE de EE. UU. sube al 3,8% y el mercado descuenta en más de un 90% una subida de tipos de la Fed el 9 de diciembre.
+9. El Consejo de Ministros aprueba cinco reales decretos energéticos: acceso y conexión, autoconsumo, requisitos de red, comunidades energéticas y gases fluorados.
+10. Puigdemont anuncia que volverá a Cataluña el 12 de diciembre, ya amnistiado, &quot;sin pedir perdón&quot;.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-26.html</link>
+<guid isPermaLink="false">informe-2026-11-26</guid><pubDate>Thu, 26 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-26.mp3" length="6961516" type="audio/mpeg"/>
+<itunes:duration>870</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – miércoles 25 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Recta final de campaña: a cuatro días de las generales del domingo 29, el debate a ocho de RTVE reunió a más de tres millones de espectadores y las encuestas privadas dan mayoría a PP y Vox, mientras el CIS sitúa al PSOE por delante.
 2. El Consejo de Ministros del martes aprobó, en plena campaña, un paquete social: permiso de nacimiento de veinte semanas, más días por fallecimiento de un familiar, IVA anual para pequeños autónomos y prórroga de las ayudas al transporte.
