@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link><language>es-es</language>
 <atom:link href="https://rafarafita-glitch.github.io/informe-diario/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Thu, 26 Nov 2026 05:05:42 +0000</lastBuildDate>
+<description>Programa diario de actualidad: España, Europa, Estados Unidos y China, energía (gas, TTF, petróleo y electricidad) y mercados, contado en clave radiofónica.</description><lastBuildDate>Fri, 27 Nov 2026 04:52:44 +0000</lastBuildDate>
 <itunes:author>Informe de actualidad</itunes:author><itunes:owner><itunes:name>Informe de actualidad</itunes:name><itunes:email>rafarafita@gmail.com</itunes:email></itunes:owner>
 <itunes:image href="https://rafarafita-glitch.github.io/informe-diario/cover.jpg"/><image><url>https://rafarafita-glitch.github.io/informe-diario/cover.jpg</url><title>Informe de actualidad</title><link>https://rafarafita-glitch.github.io/informe-diario/</link></image>
 <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
 <itunes:explicit>false</itunes:explicit><itunes:type>episodic</itunes:type>
-<item><title>Informe de actualidad – jueves 26 de noviembre de 2026</title>
+<item><title>Informe de actualidad – viernes 27 de noviembre de 2026</title>
+<description>Resumen ejecutivo:
+1. Pablo Hernández de Cos será el próximo presidente del BCE, el primer español en el cargo, en sustitución de Christine Lagarde.
+2. El último debate a cuatro antes del 29-N deja lecturas opuestas: El País y La Vanguardia ven a Sánchez y Colau a la ofensiva; El Mundo y La Razón, a Feijóo resistiendo con ventaja en las encuestas.
+3. EE. UU. propone nuevos aranceles (Sección 301) contra 14 socios, UE incluida: techo del 20% para Europa y recargo adicional del 20% para China.
+4. El Ibex 35 rebota un 2,26% hasta 19.057,9 puntos, con los 35 valores en verde y Solaria (+7,9%) a la cabeza.
+5. Los hutíes atacan una refinería saudí y sigue la tensión en Ormuz; el Brent ronda los 96 dólares.
+6. El TTF cotiza en torno a 87,75 €/MWh, casi el triple que hace un año, con los almacenes de la UE por debajo del 68%.
+7. El precio mayorista de la luz (OMIE) sube hoy un 14%, hasta 221,9 €/MWh de media, con máximo de 278 €/MWh.
+8. Los mercados descuentan casi con certeza una subida de 25 puntos básicos de la Fed en diciembre; el BCE también estudia endurecer.
+9. La Diputación Permanente convalida cinco decretos (entre ellos el de derechos de emisión); autónomos, permisos y crédito al consumo quedan para después del 29-N.
+10. China: el jefe del Partido en Shanghái, Chen Jining, bajo investigación, a una semana de la cumbre Trump-Xi.</description><link>https://rafarafita-glitch.github.io/informe-diario/informes/2026-11-27.html</link>
+<guid isPermaLink="false">informe-2026-11-27</guid><pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
+<enclosure url="https://rafarafita-glitch.github.io/informe-diario/audio/Informe_2026-11-27.mp3" length="7155820" type="audio/mpeg"/>
+<itunes:duration>894</itunes:duration><itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType></item><item><title>Informe de actualidad – jueves 26 de noviembre de 2026</title>
 <description>Resumen ejecutivo:
 1. Recta final del 29N: Sánchez dice en El País que &quot;toca la mayoría con la yema de los dedos&quot;; la media de encuestas da a PP y Vox más de 176 escaños.
 2. Trump reabre la guerra comercial: aranceles de hasta el 20% (Sección 301) a 14 economías, entre ellas China y la UE (techo del 15% para Europa).
